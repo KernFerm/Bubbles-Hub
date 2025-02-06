@@ -44,6 +44,10 @@ python Bubbles-Hub.py
 - **Navigation**: Use the scrollbar to view more projects if available.
 - **Exit**: Use the `Quit` button located at the bottom of the window to close the application.
 
+## Updates
+- Will be updating this from time to time.
+- Make Sure To Check for updates.
+
 ## Screenshot
 ![screenshot](https://github.com/KernFerm/Bubbles-Hub/blob/main/Screenshot/Screenshot.png)
 

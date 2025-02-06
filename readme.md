@@ -12,7 +12,7 @@
 
 ### Prerequisites
 
-Before you begin, ensure you have Python installed on your system. You can download Python [here](https://python.org). Bubbles Hub uses Tkinter, which is included in the standard Python installation.
+Before you begin, ensure you have Python installed on your system. Bubbles Hub uses Tkinter, which is included in the standard Python installation.
 
 ### Installation
 

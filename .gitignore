@@ -20,6 +20,7 @@ Thumbs.db  # Windows thumbnail cache
 
 # Batch scripts (if you choose to exclude them)
 # launcher.bat
+# requirements.bat
 
 # Pyarmor runtime files (specific to your structure)
 pyarmor_runtime.000000/*.pyd

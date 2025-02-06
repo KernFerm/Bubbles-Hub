@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyd  # Exclude dynamically linked library files typically on Windows
+
+# Virtual environment
+.venv/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Pyarmor output
+pyarmor_runtime_000000/
+
+# Operating system generated files
+.DS_Store  # macOS folder attribute files
+Thumbs.db  # Windows thumbnail cache
+
+# Batch scripts (if you choose to exclude them)
+# launcher.bat
+
+# Pyarmor runtime files (specific to your structure)
+pyarmor_runtime.000000/*.pyd
+
+# Ignore specific text files that might be for personal use or notes
+note1.txt
+notes.txt
+
+# Visual Studio Code settings
+.vscode/

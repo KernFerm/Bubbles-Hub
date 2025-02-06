@@ -30,3 +30,6 @@ notes.txt
 
 # Visual Studio Code settings
 .vscode/
+
+# Ignore MD files
+*.md

@@ -44,32 +44,13 @@ python Bubbles-Hub.py
 - **Navigation**: Use the scrollbar to view more projects if available.
 - **Exit**: Use the `Quit` button located at the bottom of the window to close the application.
 
+## Screenshot
+![screenshot](https://github.com/KernFerm/Bubbles-Hub/blob/main/Screenshot/Screenshot.png)
+
+
 ## Support 🤝
 Should you encounter any issues or require assistance 
 - [Click to Join Discord](https://discord.fnbubbles420.org/invite)
 
 ## Copyright & Licensing 📜
 **Bubbles Hub** is provided under the `Private License`.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

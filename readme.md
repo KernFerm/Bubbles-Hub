@@ -41,6 +41,7 @@ python Bubbles-Hub.py
 
 ## Bubbles-Hub EXE
 [Bubbles-Hub exe](https://github.com/KernFerm/Bubbles-Hub/tree/main/Bubbles-Hub)
+- downloaded main repo to get exe 
 
 ## Usage Tips 📌
 - **Interface**: The main window will show a grid of buttons, each labeled according to its corresponding project.

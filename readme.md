@@ -40,7 +40,7 @@ python Bubbles-Hub.py
 - Upon launching, Bubbles Hub will display a window with buttons for each project. Clicking a button opens the project in your default web browser.
 
 ## Bubbles-Hub EXE
-[Bubbles-Hub exe](https://github.com/KernFerm/Bubbles-Hub/tree/main/Bubbles-Hub)
+[Bubbles-Hub exe](https://github.com/KernFerm/Bubbles-Hub/releases/tag/Bubbles-Hub-exe)
 - downloaded main repo to get exe 
 
 ## Usage Tips 📌

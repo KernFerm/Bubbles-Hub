@@ -33,3 +33,8 @@ notes.txt
 
 # Ignore MD files
 *.md
+
+# Ignore Image Files
+*.png
+*.jpeg
+*.ico

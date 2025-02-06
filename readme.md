@@ -29,7 +29,7 @@ No additional installation is necessary! Just download the script and you're rea
 - D) install `python`
 - E) double click the `python3119.bat` and press `Y` to install.
 - F) once done, `python --version` to see if it got installed correctly.
----
+- G) then double click on the requirements.bat to install the requirements needed to run the code.
 
 2. Navigate to the directory containing `Bubbles-Hub.py`.
 

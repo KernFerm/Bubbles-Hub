@@ -13,7 +13,7 @@ This version of the game has been bundled into an executable (`.exe`) file for e
     
 ### 3. Go to the `Digital Signatures` tab.
 
-- click the timestamp date ***Wednesday***
+- click the `timestamp` date ***Wednesday***
 
 ### 4. Click on `Details`.
 

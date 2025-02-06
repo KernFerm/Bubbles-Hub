@@ -39,7 +39,7 @@ This version of the game has been bundled into an executable (`.exe`) file for e
 
 - click the `timestamp` date ***Wednesday***
 
-- you will see a warning message pop up `click yes`
+- you will see a **warning** message pop up `click yes`
 
 ### 10. Verify if the `signature` is valid.
 

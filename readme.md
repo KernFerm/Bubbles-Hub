@@ -52,6 +52,11 @@ python Bubbles-Hub.py
 - Will be updating this from time to time.
 - Make Sure To Check for updates.
 
+### Feature Updates
+- Readme has been updated in repo explains how to get the exe
+- next update to exe will have zip files for exe if the repo has them that way you dont have to download entire repo if you dont want to.
+- more is getting added
+
 ## Screenshot
 ![screenshot](https://github.com/KernFerm/Bubbles-Hub/blob/main/Screenshot/Screenshot.png)
 

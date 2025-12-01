@@ -63,7 +63,11 @@ python Bubbles-Hub.py
 
 ## Support 🤝
 Should you encounter any issues or require assistance 
-- [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
+# Join the discord if you need help 
+
+[https://fnbubbles420.org/discordinvite](https://fnbubbles420.org/discordinvite)
+
 
 ## Copyright & Licensing 📜
 **Bubbles Hub** is provided under the `Private License`.
+
